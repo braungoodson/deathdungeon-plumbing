@@ -1,0 +1,29 @@
+{
+  "name": "deathdungeon-plumbing",
+  "version": "0.0.1",
+  "description": "Pipes for Death Dungeon",
+  "main": "deathdungeon-plumbing.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/braungoodson/deathdungeon-plumbing"
+  },
+  "keywords": [
+    "mmo",
+    "rpg",
+    "web",
+    "sockets",
+    "mario-mario",
+    "mocha",
+    "karma",
+    "socket.io",
+    "express.io"
+  ],
+  "author": "Braun Goodson <braungoodson@gmail.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/braungoodson/deathdungeon-plumbing/issues"
+  }
+}
